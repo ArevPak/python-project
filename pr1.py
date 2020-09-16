@@ -5,4 +5,4 @@ c=int(input('c='))
 a1=a+b
 b1=c-a
 c1=a+b+c
-print('a=',a1,'b=',b1,'c=',c1)
+print('Ответ: a=',a1,'b=',b1,'c=',c1)
